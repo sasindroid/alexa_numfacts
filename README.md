@@ -1,7 +1,7 @@
 #Alexa - Num Facts#
 A handy skill for interesting facts about numbers. 
 
-![Alt text](/Users/sasikumar/Desktop/Temp/alexa/logo_600.png?raw=true "Title")
+!(https://images-na.ssl-images-amazon.com/images/I/518TGhECHqL.png?raw=true)
 
 
 
